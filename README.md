@@ -41,6 +41,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Reinforcement Learning
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1bO5-Y637IsDen-_ykOnxit9D31YIeBxB?usp=sharing)
 
+## Representation Learning
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/13HWN0NgjdHm3EQS2-3koRqEDLF9-SN5c?usp=sharing)
+
 ## RNN & LSTMS
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1A0zgCLZ1Yz8SYR91ZGpGvgjhok3UO8NF?usp=sharing)
 
