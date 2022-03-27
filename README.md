@@ -25,3 +25,6 @@ Notes available in power point, google slides and pdf. If you want to modify the
 
 ## Uncertainty Quantification
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1lnz3yZ95bdFWRDOP2PaLFEkjyL1qIIwl?usp=sharing)
+
+## Unsupervised Learning
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1IkWmhNJ0SxqQT4OahhK88XiVn_zt5bhJ?usp=sharing)
