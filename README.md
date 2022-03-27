@@ -23,6 +23,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Graph NNs
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1Nz0awSIZKo0e0Rd3Px7lOgiZ1HY2k01G?usp=sharing)
 
+## History
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1MxDuiyw3iZ12-v-MfuIClWmXy-J0-4VL?usp=sharing)
+
 ## Introduction to AI, ML and DL 
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1hB6nRqSGj1e1W6lU6HwvGNUsRDVCQhY5?usp=sharing)
 
