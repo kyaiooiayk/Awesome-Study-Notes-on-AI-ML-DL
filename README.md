@@ -6,3 +6,6 @@ Notes available in power point, google slides and pdf.
 
 ## Statistics and probabilities
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1YW0sN9uGx7bOUbXQOwmZ3RNGoeRDqbiz?usp=sharing)
+
+## Uncertainty quantification
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1lnz3yZ95bdFWRDOP2PaLFEkjyL1qIIwl?usp=sharing)
