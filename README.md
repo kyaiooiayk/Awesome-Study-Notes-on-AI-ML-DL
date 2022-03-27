@@ -20,6 +20,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Data, Database and Data Engineering
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1ozg7LuoK2Sn35W-CKMEy5RB3IICiX2Og?usp=sharing)
 
+## Datasets
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/15jkKuJYyOwgXuk6wr6EBfc38zWUZ7TY8?usp=sharing)
+
 ## Deep Dearning
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1FpT_1gwwNf98yG1vruEtAnoRJRHPdRek?usp=sharing)
 
