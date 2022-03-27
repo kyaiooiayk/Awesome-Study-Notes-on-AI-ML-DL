@@ -29,6 +29,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Machine Learning
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1Znn6Qsk-EiFSmsvBILgZ6QwInFuRs-Vq?usp=sharing)
 
+## Model Training
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1flGUtgLDQsC3FyK9Nm-aafoSEDMNj5Ir?usp=sharing)
+
 ## NLP
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1t_hn9ju814wbnFCT2O57BEJtdh4wzbdg?usp=sharing)
 
