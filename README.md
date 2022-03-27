@@ -8,6 +8,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Deep Learning
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1FpT_1gwwNf98yG1vruEtAnoRJRHPdRek?usp=sharing)
 
+## Ensemble Methods
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1M387UBEKSnhdHfUVFy5A_88Vh6JcG8KM?usp=sharing)
+
 ## General Observation
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1YCqizrZa9exIMffAIUsrcoeQ6p4vRZdN?usp=sharing)
 
