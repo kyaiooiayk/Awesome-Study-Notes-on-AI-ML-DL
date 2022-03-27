@@ -14,6 +14,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Machine Learning
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1Znn6Qsk-EiFSmsvBILgZ6QwInFuRs-Vq?usp=sharing)
 
+## Supervised Learning
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/13MWH3ArfpaDvdv7mffL6fgZe3xq4NDyj?usp=sharing)
+
 ## Statistics and Probabilities
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1YW0sN9uGx7bOUbXQOwmZ3RNGoeRDqbiz?usp=sharing)
 
