@@ -5,6 +5,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Adversarial NNs
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/17W-1m4_FULq6Gl_wEGR67q7kiXv1mLK4?usp=sharing)
 
+## CNNs
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1bP7Moyb7O54zPX4hZWfd_qeaHa8L05_h?usp=sharing)
+
 ## Computer vision
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1Xy6AOAUoI-TUzfh5AjuJ6TBbCJlEWCJ7?usp=sharing)
 
