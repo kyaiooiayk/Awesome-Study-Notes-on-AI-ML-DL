@@ -32,6 +32,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Statistics and Probabilities
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1YW0sN9uGx7bOUbXQOwmZ3RNGoeRDqbiz?usp=sharing)
 
+## RNN & LSTMS
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1A0zgCLZ1Yz8SYR91ZGpGvgjhok3UO8NF?usp=sharing)
+
 ## Uncertainty Quantification
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1lnz3yZ95bdFWRDOP2PaLFEkjyL1qIIwl?usp=sharing)
 
