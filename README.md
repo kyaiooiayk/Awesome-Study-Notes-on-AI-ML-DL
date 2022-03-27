@@ -5,6 +5,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Adversarial NNs
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/17W-1m4_FULq6Gl_wEGR67q7kiXv1mLK4?usp=sharing)
 
+## Becoming a Data Scientist
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1pMwAHbRC-iGy6gcbmDaGejkB67-3tmhg?usp=sharing)
+
 ## Cheatsheets
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1UnL422Jczlok2t8WjirJFLO9IODkYZzf?usp=sharing)
 
