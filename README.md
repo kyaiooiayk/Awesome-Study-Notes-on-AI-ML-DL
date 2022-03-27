@@ -20,6 +20,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## General Observation
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1YCqizrZa9exIMffAIUsrcoeQ6p4vRZdN?usp=sharing)
 
+## Graph NNs
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1Nz0awSIZKo0e0Rd3Px7lOgiZ1HY2k01G?usp=sharing)
+
 ## Introduction to AI, ML and DL 
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1hB6nRqSGj1e1W6lU6HwvGNUsRDVCQhY5?usp=sharing)
 
@@ -28,6 +31,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 
 ## NLP
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1t_hn9ju814wbnFCT2O57BEJtdh4wzbdg?usp=sharing)
+
+## Optimisation
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1tipTva-bmZQhiu2jvub4BQq0W46RUII-?usp=sharing)
 
 ## Semi-supervised Learning
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1ORzvNNR7OZhQ7rlkcFG0uOH2nJqLWFfq?usp=sharing)
