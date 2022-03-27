@@ -17,7 +17,10 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Computer vision
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1Xy6AOAUoI-TUzfh5AjuJ6TBbCJlEWCJ7?usp=sharing)
 
-## Deep Learning
+## Data, Database and Data Engineering
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1ozg7LuoK2Sn35W-CKMEy5RB3IICiX2Og?usp=sharing)
+
+## Deep Dearning
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1FpT_1gwwNf98yG1vruEtAnoRJRHPdRek?usp=sharing)
 
 ## Ensemble Methods
