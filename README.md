@@ -23,6 +23,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Datasets
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/15jkKuJYyOwgXuk6wr6EBfc38zWUZ7TY8?usp=sharing)
 
+## Data Science Competition
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1rZ6yQU5HRnPca5KIPTRPojGZb7NAyrbw?usp=sharing)
+
 ## Deep Dearning
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1FpT_1gwwNf98yG1vruEtAnoRJRHPdRek?usp=sharing)
 
