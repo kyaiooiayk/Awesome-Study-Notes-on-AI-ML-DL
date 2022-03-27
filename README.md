@@ -23,6 +23,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Ensemble Methods
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1M387UBEKSnhdHfUVFy5A_88Vh6JcG8KM?usp=sharing)
 
+## Explainable AI
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1YTvctHR28vG2zBrSPpq5I1JcbV--FS6v?usp=sharing)
+
 ## General Observation
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1YCqizrZa9exIMffAIUsrcoeQ6p4vRZdN?usp=sharing)
 
