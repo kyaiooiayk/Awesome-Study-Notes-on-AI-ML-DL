@@ -35,6 +35,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Optimisation
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1tipTva-bmZQhiu2jvub4BQq0W46RUII-?usp=sharing)
 
+## Pre-processing
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1ABSeXMUvG-AbFcxvFxJ0J0xpFDYUuA21?usp=sharing)
+
 ## Semi-supervised Learning
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1ORzvNNR7OZhQ7rlkcFG0uOH2nJqLWFfq?usp=sharing)
 
