@@ -56,6 +56,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Optimisation
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1tipTva-bmZQhiu2jvub4BQq0W46RUII-?usp=sharing)
 
+## Practicle Advices
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1dyEoPlj1XtqiNgT9duNMtxplwvzpfJbU?usp=sharing)
+
 ## Pre-processing
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1ABSeXMUvG-AbFcxvFxJ0J0xpFDYUuA21?usp=sharing)
 
