@@ -20,6 +20,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Machine Learning
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1Znn6Qsk-EiFSmsvBILgZ6QwInFuRs-Vq?usp=sharing)
 
+## NLP
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1t_hn9ju814wbnFCT2O57BEJtdh4wzbdg?usp=sharing)
+
 ## Semi-supervised Learning
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1ORzvNNR7OZhQ7rlkcFG0uOH2nJqLWFfq?usp=sharing)
 
