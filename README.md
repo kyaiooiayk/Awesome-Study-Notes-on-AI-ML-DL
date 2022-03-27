@@ -76,3 +76,6 @@ Notes available in power point, google slides and pdf. If you want to modify the
 
 ## Unsupervised Learning
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1IkWmhNJ0SxqQT4OahhK88XiVn_zt5bhJ?usp=sharing)
+
+## What to do when things are not working
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/11SwBmIZmUdr6tlZAoxxlK6yCKbGkFjOR?usp=sharing)
