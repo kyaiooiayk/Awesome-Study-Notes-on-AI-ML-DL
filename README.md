@@ -4,6 +4,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Introduction to AI, ML and DL 
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1hB6nRqSGj1e1W6lU6HwvGNUsRDVCQhY5?usp=sharing)
 
+## Deep Learning
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1FpT_1gwwNf98yG1vruEtAnoRJRHPdRek?usp=sharing)
+
 ## Machine Learning
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1Znn6Qsk-EiFSmsvBILgZ6QwInFuRs-Vq?usp=sharing)
 
