@@ -35,6 +35,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Statistics and Probabilities
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1YW0sN9uGx7bOUbXQOwmZ3RNGoeRDqbiz?usp=sharing)
 
+## Reinforcement Learning
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1bO5-Y637IsDen-_ykOnxit9D31YIeBxB?usp=sharing)
+
 ## RNN & LSTMS
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1A0zgCLZ1Yz8SYR91ZGpGvgjhok3UO8NF?usp=sharing)
 
