@@ -11,6 +11,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ## Cheatsheets
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1UnL422Jczlok2t8WjirJFLO9IODkYZzf?usp=sharing)
 
+## Classification
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1jeYPyUXWOcewxl5_yB-kjbGsR9chH3Xx?usp=sharing)
+
 ## CNNs
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1bP7Moyb7O54zPX4hZWfd_qeaHa8L05_h?usp=sharing)
 
@@ -43,6 +46,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 
 ## History
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1MxDuiyw3iZ12-v-MfuIClWmXy-J0-4VL?usp=sharing)
+
+## Learning to Rank
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1hO8m2sUzs66npqVpSnTMZIzng2Hmaqk_?usp=sharing)
 
 ## Introduction to AI, ML and DL 
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1hB6nRqSGj1e1W6lU6HwvGNUsRDVCQhY5?usp=sharing)
@@ -85,6 +91,9 @@ Notes available in power point, google slides and pdf. If you want to modify the
 
 ## Statistics and Probabilities
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1YW0sN9uGx7bOUbXQOwmZ3RNGoeRDqbiz?usp=sharing)
+
+## Regression
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1bPucB0PGuyY_VPjyVE2dgkKs06dYcgbI?usp=sharing)
 
 ## Reinforcement Learning
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1bO5-Y637IsDen-_ykOnxit9D31YIeBxB?usp=sharing)
