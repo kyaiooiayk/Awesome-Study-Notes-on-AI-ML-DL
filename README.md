@@ -49,7 +49,7 @@ Tree | Honest tree | Soft decision trees | Random forest | Mixture of experts | 
 ***
 
 ## Explainable AI
-Permutation importance | Partial Dependence Plot (PDP) | Individual Conditional Expectation (ICE) | Accumulated Local Effects (ALE) | Counterfactual explanation | Explainability vs interpretability | Feature interaction (H-statistic) | Global surrogate | Local interpretable model-agnostic explanations = LIME | SHAP | SHAP (SHapley Additive exPlanations) | Feature importance vs. sensitivity
+Permutation importance | Partial Dependence Plot = DDP | Individual Conditional Expectation = ICE | Accumulated Local Effects (ALE) | Counterfactual explanation | Explainability vs interpretability | Feature interaction (H-statistic) | Global surrogate | Local interpretable model-agnostic explanations = LIME | SHAP | SHAP = SHapley Additive exPlanations | Feature importance vs. sensitivity
 
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1YTvctHR28vG2zBrSPpq5I1JcbV--FS6v?usp=sharing)
 ***
