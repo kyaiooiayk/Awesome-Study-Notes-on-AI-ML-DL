@@ -43,12 +43,14 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ***
 
 ## Ensemble Methods
-Tree | honest tree | soft decision trees | random forest | mixture of experts | bagging | boosting | stacking | meta leaner | blending | Gini impurity | feature importance | OOB score | dsicrete AdaBoost | real AdaBoost | voting classifier
+Tree | Honest tree | Soft decision trees | Random forest | Mixture of experts | Bagging | Boosting | Stacking |Mmeta leaner | Blending | Gini impurity | Feature importance | OOB score | Discrete AdaBoost | real AdaBoost | Voting classifier
 
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1M387UBEKSnhdHfUVFy5A_88Vh6JcG8KM?usp=sharing)
 ***
 
 ## Explainable AI
+Permutation importance | Partial Dependence Plot (PDP) | Individual Conditional Expectation (ICE) | Accumulated Local Effects (ALE) | Counterfactual explanation | Explainability vs interpretability | Feature interaction (H-statistic) | Global surrogate | Local interpretable model-agnostic explanations = LIME | SHAP | SHAP (SHapley Additive exPlanations) |
+
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1YTvctHR28vG2zBrSPpq5I1JcbV--FS6v?usp=sharing)
 ***
 
@@ -82,6 +84,10 @@ Tree | honest tree | soft decision trees | random forest | mixture of experts | 
 
 ## Machine Learning
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1Znn6Qsk-EiFSmsvBILgZ6QwInFuRs-Vq?usp=sharing)
+***
+
+## Metrics
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1UOSeGK5TlFbpDhiMiK8BVjfcxER-EyGA?usp=sharing)
 ***
 
 ## MLOPs
