@@ -3,6 +3,8 @@ Notes available in power point, google slides and pdf. If you want to modify the
 ***
 
 ## A/B Testing
+Online contolled experiment | Bandit testing | Correlation does not imply causation! | How to determine causality
+
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/11XnZKVtjiW3EzN19azXo5iHAaHJjdwM3?usp=sharing)
 ***
 
