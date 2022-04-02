@@ -2,6 +2,10 @@
 Notes available in power point, google slides and pdf. If you want to modify the file, just download locally and upload them on your Google Drive. This is the [link](https://drive.google.com/drive/folders/1b9wdxS5HtvuxU1wj_O5z_owpHK-bcV8_?usp=sharing) to download all the notes.
 ***
 
+## A/B Testing
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/11XnZKVtjiW3EzN19azXo5iHAaHJjdwM3?usp=sharing)
+***
+
 ## Adversarial NNs
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/17W-1m4_FULq6Gl_wEGR67q7kiXv1mLK4?usp=sharing)
 ***
