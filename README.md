@@ -1,6 +1,5 @@
 # Notes on AI, ML and DL
-Notes available in power point, google slides and pdf. If you want to modify the file, just download locally and upload them on your Google Drive. This is the link to 
-[entire notes folder](https://drive.google.com/drive/folders/1b9wdxS5HtvuxU1wj_O5z_owpHK-bcV8_?usp=sharing).
+Notes available in power point, google slides and pdf. If you want to modify the file, just download locally and upload them on your Google Drive. This is the [link](https://drive.google.com/drive/folders/1b9wdxS5HtvuxU1wj_O5z_owpHK-bcV8_?usp=sharing) to download all the notes.
 ***
 
 ## Adversarial NNs
