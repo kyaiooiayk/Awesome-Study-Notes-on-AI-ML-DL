@@ -136,6 +136,8 @@ Permutation importance | Partial Dependence Plot = DDP | Individual Conditional 
 ***
 
 ## Recommender Systems
+Collaborative Filtering | Matrix Factorisation | Bayesian Personalized Ranking | Calibrated Recoomendations | Explicit & Implicit user data | Factorisation Machines | Locality Sensitive Hashing (LSH) | Weighted Approximate Rank Pairwise Loss = WARP
+
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1xJ2b-tLoUclGuGmYxHjsVAFqIp2Irn8l?usp=sharing)
 ***
 
