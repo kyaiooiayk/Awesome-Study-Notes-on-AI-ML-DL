@@ -135,6 +135,10 @@ Permutation importance | Partial Dependence Plot = DDP | Individual Conditional 
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1YW0sN9uGx7bOUbXQOwmZ3RNGoeRDqbiz?usp=sharing)
 ***
 
+## Recommender Systems
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1xJ2b-tLoUclGuGmYxHjsVAFqIp2Irn8l?usp=sharing)
+***
+
 ## Regression
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1bPucB0PGuyY_VPjyVE2dgkKs06dYcgbI?usp=sharing)
 ***
