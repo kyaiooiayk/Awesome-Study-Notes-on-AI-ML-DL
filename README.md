@@ -119,6 +119,10 @@ Permutation importance | Partial Dependence Plot = DDP | Individual Conditional 
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1ABSeXMUvG-AbFcxvFxJ0J0xpFDYUuA21?usp=sharing)
 ***
 
+## Procedures
+[[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1wUzA-qaTCNZD3nHzLgwaTs1CtJJBmu1v?usp=sharing)
+***
+
 ## Programming
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1-G4Ct4iMPd7T2W-gW75eBKtuiJ37hyJj?usp=sharing)
 ***
