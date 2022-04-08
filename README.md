@@ -1,5 +1,6 @@
 # Notes on AI, ML and DL
-Notes available in power point, google slides and pdf. If you want to modify the file, just download locally and upload them on your Google Drive. This is the [link](https://drive.google.com/drive/folders/1b9wdxS5HtvuxU1wj_O5z_owpHK-bcV8_?usp=sharing) to download all the notes.
+- These notes repositoy are available in power point, google slides and pdf. The master file is always the power point one, which means that is some rare occasion both google slides or the pdf may not be up-to-date. If you want to modify the file, just download locally and upload them on your Google Drive or wherever you prefer. 
+- This is the [link](https://drive.google.com/drive/folders/1b9wdxS5HtvuxU1wj_O5z_owpHK-bcV8_?usp=sharing) to download all the notes.
 ***
 
 ## A/B Testing
