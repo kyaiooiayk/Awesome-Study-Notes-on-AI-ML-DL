@@ -129,6 +129,8 @@ Permutation importance | Partial Dependence Plot = DDP | Individual Conditional 
 ***
 
 ## Semi-supervised Learning
+How to deal with the lack of labels | Crowdsourcing vs. curated crowds | Weak supervision | Active learning | Self-supervised learning | Curriculum learning | Human-in-the-loop | Acrive learning | Uncertainty, diversity, and random sampling
+
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1ORzvNNR7OZhQ7rlkcFG0uOH2nJqLWFfq?usp=sharing)
 ***
 
