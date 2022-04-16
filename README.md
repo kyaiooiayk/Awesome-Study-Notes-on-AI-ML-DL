@@ -109,6 +109,8 @@ Permutation importance | Partial Dependence Plot = DDP | Individual Conditional 
 ***
 
 ## Optimisation
+Optimiser for deep learning | Convex vs. non-convex | Smooth vs. non-smooth | Noisy vs. non-noisy | Well vs. ill-conditioned | Quadratic vs. non-quadratic | Gradient descent | SGD = Stochastic Dradient Descent | Adam | AdamBelief | AdaGrad | AdaDelta | RSMProp | Batch gradient descent | Mini-batch gradient descent | LARS | LAMB | Weight updates | Online vs. offline learning | Learning rate strategies | Feature scaling | Feature normalisation | No-free-lunch principal | How to Choose an Algorithm? | Robust vs. reliability | Necessary and Sufficient Condition for minimum | Optimality conditions | Negative log-likelihood = cross entropy | Cost vs. loss function | Hinge loss, L1, L2 and Huber loss functions | Metric, scoring and loss function | Custom loss function | Continuation method | Multi-objective optimisation | Multi-point optimisation | Multi-constaint optimisation | Pareto front | Hupervolume indicator | Niching | Genetic algorithm | SOM = Self-Organizing Maps | SA = Simulated annealing | Momentum vs. pure gradient descent | Nesterov Momentum | Hessian matrix | Conjugate gradient | Quasi-Newton BFGS | L-BFGS | Gradient clipping | Complex step | Saddle points | Trust region | Maratos effect | Line search method | The Wolfe conditions | Weak minimum | Simplex, Complex and Subplex | SL-SQP | Hyperparameter optimisation | Random Search vs. grid search 
+
 [[pptx | Google Slide | pdf]](https://drive.google.com/drive/folders/1tipTva-bmZQhiu2jvub4BQq0W46RUII-?usp=sharing)
 ***
 
