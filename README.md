@@ -144,8 +144,8 @@ How to deal with the lack of labels | Crowdsourcing vs. curated crowds | Weak su
 [Google Slide](https://drive.google.com/drive/folders/13MWH3ArfpaDvdv7mffL6fgZe3xq4NDyj?usp=sharing)
 ***
 
-## Statistics and Probabilities
-[Google Slide](https://drive.google.com/drive/folders/1YW0sN9uGx7bOUbXQOwmZ3RNGoeRDqbiz?usp=sharing)
+## Statistics and Probabilities and Bayse
+[Google Slide](https://drive.google.com/drive/u/2/folders/1YW0sN9uGx7bOUbXQOwmZ3RNGoeRDqbiz)
 ***
 
 ## Recommender Systems
