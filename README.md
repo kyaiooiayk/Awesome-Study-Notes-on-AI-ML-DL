@@ -122,8 +122,8 @@ Optimiser for deep learning | Convex vs. non-convex | Smooth vs. non-smooth | No
 [Google Slide](https://drive.google.com/drive/folders/1dyEoPlj1XtqiNgT9duNMtxplwvzpfJbU?usp=sharing)
 ***
 
-## Pre-processing
-[Google Slide](https://drive.google.com/drive/folders/1ABSeXMUvG-AbFcxvFxJ0J0xpFDYUuA21?usp=sharing)
+## Pre-processing and Feature Engineering
+[Google Slide](https://docs.google.com/presentation/d/1SG8VosPcLdlYdV8-uRpb9d97Y7lyzQXusHC0C7om1E4/edit?usp=sharing)
 ***
 
 ## Procedures
