@@ -13,6 +13,10 @@ Online contolled experiment | Bandit testing | Correlation does not imply causat
 [Google Slide](https://drive.google.com/drive/folders/17W-1m4_FULq6Gl_wEGR67q7kiXv1mLK4?usp=sharing)
 ***
 
+## Autoencoders
+[Google Slide](https://drive.google.com/drive/u/2/folders/1h0KSe_KaNlzFL0M4cVE73eN1CUQBUA3L)
+***
+
 ## Becoming a Data Scientist
 [Google Slide](https://drive.google.com/drive/folders/1pMwAHbRC-iGy6gcbmDaGejkB67-3tmhg?usp=sharing)
 ***
