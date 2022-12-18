@@ -21,6 +21,12 @@ Online contolled experiment | Bandit testing | Correlation does not imply causat
 [Google Slide](https://drive.google.com/drive/folders/1pMwAHbRC-iGy6gcbmDaGejkB67-3tmhg?usp=sharing)
 ***
 
+## Big Data
+Hadhoop | Spark | Map Reduced
+
+[Google Slide](https://drive.google.com/drive/u/1/folders/1OTkRsECTZ11bD7xVRuscpEjWD706l0ET)
+***
+
 ## Cheatsheets
 [Google Slide](https://drive.google.com/drive/folders/1UnL422Jczlok2t8WjirJFLO9IODkYZzf?usp=sharing)
 ***
@@ -122,16 +128,18 @@ Optimiser for deep learning | Convex vs. non-convex | Smooth vs. non-smooth | No
 [Google Slide](https://drive.google.com/drive/folders/1tipTva-bmZQhiu2jvub4BQq0W46RUII-?usp=sharing)
 ***
 
+## Parallel Computing
+CPU | GPU | TPU | Hyper-threading | 
+
+[Google Slide](https://drive.google.com/drive/u/1/folders/13mzxrofldkbdgF_eT5EPZ1cEiCgOT78d)
+***
+
 ## Practicle Advices
 [Google Slide](https://drive.google.com/drive/folders/1dyEoPlj1XtqiNgT9duNMtxplwvzpfJbU?usp=sharing)
 ***
 
 ## Pre-processing and Feature Engineering
 [Google Slide](https://docs.google.com/presentation/d/1SG8VosPcLdlYdV8-uRpb9d97Y7lyzQXusHC0C7om1E4/edit?usp=sharing)
-***
-
-## Procedures
-[Google Slide](https://drive.google.com/drive/folders/1wUzA-qaTCNZD3nHzLgwaTs1CtJJBmu1v?usp=sharing)
 ***
 
 ## Programming
