@@ -58,6 +58,12 @@ Hadhoop | Spark | Map Reduced
 [Google Slide](https://drive.google.com/drive/folders/1FpT_1gwwNf98yG1vruEtAnoRJRHPdRek?usp=sharing)
 ***
 
+## Don'ts
+R2 trap for time series analysis |
+
+[Google Slide](https://drive.google.com/drive/u/1/folders/1gqmJ9JAm_UR9Lzh6Zpj3R3pSLWUIdbQ7)
+***
+
 ## Ensemble Methods
 Tree | Honest tree | Soft decision trees | Random forest | Mixture of experts | Bagging | Boosting | Stacking |Mmeta leaner | Blending | Gini impurity | Feature importance | OOB score | Discrete AdaBoost | real AdaBoost | Voting classifier
 
