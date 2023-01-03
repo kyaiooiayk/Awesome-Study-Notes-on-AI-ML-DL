@@ -80,10 +80,6 @@ Permutation importance | Partial Dependence Plot = DDP | Individual Conditional 
 [Google Slide](https://drive.google.com/drive/u/2/folders/1drOypBN_mHkb2OllOtrCUr8WzIx0e-1A)
 ***
 
-## General Observation
-[Google Slide](https://drive.google.com/drive/folders/1YCqizrZa9exIMffAIUsrcoeQ6p4vRZdN?usp=sharing)
-***
-
 ## Graph NNs
 [Google Slide](https://drive.google.com/drive/folders/1Nz0awSIZKo0e0Rd3Px7lOgiZ1HY2k01G?usp=sharing)
 ***
