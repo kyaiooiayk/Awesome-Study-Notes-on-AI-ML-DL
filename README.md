@@ -176,10 +176,6 @@ Collaborative Filtering | Matrix Factorisation | Bayesian Personalized Ranking |
 [Google Slide](https://drive.google.com/drive/folders/1bO5-Y637IsDen-_ykOnxit9D31YIeBxB?usp=sharing)
 ***
 
-## Representation Learning
-[Google Slide](https://drive.google.com/drive/folders/13HWN0NgjdHm3EQS2-3koRqEDLF9-SN5c?usp=sharing)
-***
-
 ## RNN & LSTMS
 [Google Slide](https://drive.google.com/drive/folders/1A0zgCLZ1Yz8SYR91ZGpGvgjhok3UO8NF?usp=sharing)
 ***
